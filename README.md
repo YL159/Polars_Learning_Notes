@@ -8,7 +8,9 @@ It's for readers reference or off-the-book learning process.
 Due to data file size, running notebook cells is not possible. Please pull author's original git repo and replace `ch*.ipynb` chapter files with corresponding `ch*.ipynb` files here.
 
 The following is original README
+
 ---
+
 # Python Polars: The Definitive Guide
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
